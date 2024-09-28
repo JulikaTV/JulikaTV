@@ -24,6 +24,6 @@ alt = "imagem" widht = "720" height = "400"/>
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=julikatv&show_icons=true&count_private=true&hide_border=true&title_color=FEDE7C&icon_color=FEDE7C&text_color=F0CFFE&bg_color=9276EA" alt="JulikaTV github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julikatv&layout=compact&hide_border=true&title_color=F0CFFE&text_color=FEDE7C&bg_color=9376EA" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=JulikaTV&show_icons=true&count_private=true&hide_border=true&title_color=FEDE7C&icon_color=FEDE7C&text_color=F0CFFE&bg_color=9276EA" alt="JulikaTV github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JulikaTV&layout=compact&hide_border=true&title_color=F0CFFE&text_color=FEDE7C&bg_color=9376EA" />
 </div> 
