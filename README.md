@@ -1,12 +1,14 @@
 <div align="center">
 <img src = https://i.pinimg.com/736x/e7/cc/93/e7cc93acccad930b4771d5b47511622a.jpg
-alt = "imagem"/>
+alt = "imagem" widht = "720" height = "400"/>
 </div>
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F71580&background=E788FF00&center=true&multiline=true&width=435&height=59&lines=Hi%2C+I'm+JulikaTV+%E2%9C%A8;Welcome+to+my+page%F0%9F%92%95)](https://git.io/typing-svg)
 
-  
+<div align="center">
+<img src = />
+</div>  
 </div>
 -🖥️Software Engeneering at FIAP
   
