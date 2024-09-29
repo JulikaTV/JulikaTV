@@ -19,9 +19,10 @@
 -
 -
 -
+
 <br><br><br><br>
 
-<h4 align="center" style="color:FEDE7C;">Studied Technologies</h4>
+<h4 align="center">Studied Technologies</h4>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=figma,html,css,js,py" />
