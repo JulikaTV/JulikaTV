@@ -1,6 +1,5 @@
 <div align="center">
-<img src = https://i.pinimg.com/736x/e7/cc/93/e7cc93acccad930b4771d5b47511622a.jpg
-alt = "imagem" widht = "720" height = "400"/>
+<img src = ![Descrição da Imagem](./assets/ech.jpg) alt = "imagem" widht = "720" height = "400"/>
 </div>
 <div align="center">
   
