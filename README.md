@@ -25,7 +25,7 @@
 <h4 align="center">Studied Technologies</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma,html,css,js,py" />
+    <img src="https://skillicons.dev/icons?i=figma,html,css,js,py,c++" />
   </a>
 </p>
 
