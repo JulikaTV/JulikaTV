@@ -14,7 +14,10 @@
 </div>  
 </div>
 <hr>
--🖥️Software Engeneering at FIAP
+
+## ✧.* about me <img src="https://media1.giphy.com/media/1k2wqTZTt3RcGqTZvv/giphy.webp?cid=ecf05e477y2tper3s9n7yzoc9tecz3uvcxqokgynci9co3gq&ep=v1_gifs_related&rid=giphy.webp&ct=s" width="50">
+
+- 🖥️Software Engeneering at FIAP
 -
 -
 -
