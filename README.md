@@ -5,7 +5,7 @@
 <div align="center">
 <hr>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F71580&background=E788FF00&center=true&multiline=true&width=435&height=59&lines=Hi%2C+I'm+JulikaTV+%E2%9C%A8;Welcome+to+my+page%F0%9F%92%95)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7497E&center=true&vCenter=true&multiline=true&width=435&height=61&lines=Hi%2C+I'm+Julia+Yokoo%E2%9C%A8;Welcome+to+my+page+!!!)](https://git.io/typing-svg)
 
 <hr>
 <div align="center">
